@@ -15,7 +15,7 @@ I am Kenji, Security Engineer here at League!
 
 - 🌱 I’m currently learning `everything`
 - 💞️ I’m looking to collaborate on `anything`
-- 📫 How to reach me 
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kfreitas-league.kfreitas-league)
 
