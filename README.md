@@ -1,6 +1,6 @@
 ## Welcome! 
 I am Kenji, Security Engineer here at League!
-[![Gmail Badge](https://img.shields.io/badge/-kfreitas@league.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kfreitas@league.com)](mailto:kfreitas@league.com)
+
 
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
