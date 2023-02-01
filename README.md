@@ -11,7 +11,6 @@ I am Kenji, Security Engineer here at League!
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kfreitas-league&count_private=true&show_icons=true&include_all_commits=true)
 
 - 🌱 I’m currently learning `everything`
 - 💞️ I’m looking to collaborate on `anything`
